@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e836ff7cdca4fd45ab33892afcd9110, type: 3}
+  m_Name: attack1hA
+  m_EditorClassIdentifier: 
+  actionAnimation: attack1hA
+  canCombo: 1
+  comboAction: {fileID: 11400000, guid: d7250f9d23309f940be049e946667ff1, type: 2}
+  bloodSwordEffect: {fileID: 568517993198574161, guid: 5456ee6708f13bc47a4cf5b68b430800, type: 3}
+  attackScore: 3
+  recoveryTime: 2
+  maximumAttackAngle: 80
+  minimumAttackAngle: -80
+  minimumDistanceNeedToAttack: 0
+  maximumDistanceNeedToAttack: 3
